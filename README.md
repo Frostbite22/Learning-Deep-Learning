@@ -25,6 +25,6 @@
 [Website for papers with code](https://paperswithcode.com/)
 
 ## Books 
-Modern Computer Visison with Pytorch (V Kishore)
-Deep Learning with Pytorch (Eli Stevens)
+Modern Computer Visison with Pytorch (V Kishore)<br>
+Deep Learning with Pytorch (Eli Stevens)<br>
 Deep Learning (Ian Goodfellow, Bengio)
