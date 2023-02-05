@@ -23,3 +23,8 @@
 
 ## Papers with code 
 [Website for papers with code](https://paperswithcode.com/)
+
+## Books 
+Modern Computer Visison with Pytorch (V Kishore)
+Deep Learning with Pytorch (Eli Stevens)
+Deep Learning (Ian Goodfellow, Bengio)
