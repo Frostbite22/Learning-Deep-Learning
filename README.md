@@ -2,7 +2,9 @@
 
 ## Convolutional Neural Networks
 [CS231n CNN for Visual Recognition](https://cs231n.github.io/)<br>
-[CNN explainer cool visuals](https://poloclub.github.io/cnn-explainer/)
+[cs231 CNN playlist youtube](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)<br>
+[CNN explainer cool visuals](https://poloclub.github.io/cnn-explainer/)<br>
+[Deep learning for computer vision Michigan](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
 
 ## Neural Networks
 [Neural Networks: Zero to Hero](https://github.com/karpathy/nn-zero-to-hero)<br>
@@ -11,7 +13,10 @@
 ## Generative models 
 [MIT 6.S191: Deep Generative Modeling](https://www.youtube.com/watch?v=QcLlc9lj2hk)<br>
 [Generative Adversarial Nets arXiv paper](https://arxiv.org/pdf/1406.2661v1.pdf)<br>
-[GAN pytorch implementation](https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/gan/gan.py)
+[GAN pytorch implementation](https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/gan/gan.py)<br>
+[Generative Adversarial Networks faces tutorial pytorch](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html)<br>
+[Lecture 19: Generative models I michigan](https://www.youtube.com/watch?v=Q3HU2vEhD5Y&list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r&index=19)<br>
+[Lecture 20: Generative models II michigan](https://www.youtube.com/watch?v=Q3HU2vEhD5Y&list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r&index=20)
 
 ## Models 
 [Implementing ResNet18 from scratch](https://debuggercafe.com/implementing-resnet18-in-pytorch-from-scratch/)<br>
