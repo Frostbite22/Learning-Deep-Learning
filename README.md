@@ -26,8 +26,16 @@
 [Yolo V7 paper implementation](https://github.com/WongKinYiu/yolov7/blob/main/models/yolo.py)<br>
 [Yolo V7 paper](https://github.com/WongKinYiu/yolov7/raw/main/paper/yolov7.pdf)
 
+## Siamese Networks 
+[Intro to siamese Networks](https://towardsdatascience.com/a-friendly-introduction-to-siamese-networks-85ab17522942)
+
+## Ranking Loss 
+[Understanding Ranking Loss, Contrastive Loss, Margin Loss, Triplet Loss, Hinge Loss and all those confusing names](https://gombru.github.io/2019/04/03/ranking_loss/)
+
 ## Papers with code 
-[Website for papers with code](https://paperswithcode.com/)
+[Website for papers with code](https://paperswithcode.com/)<br>
+[Deep Learning using Linear SVMS](https://paperswithcode.com/paper/deep-learning-using-linear-support-vector)<br>
+[One-class Recommendation Systems with the Hinge Pairwise Distance Loss and Orthogonal Representations](https://paperswithcode.com/paper/one-class-recommendation-systems-with-the)
 
 ## Books 
 Modern Computer Visison with Pytorch (V Kishore)<br>
