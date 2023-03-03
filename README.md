@@ -27,10 +27,12 @@
 [Yolo V7 paper](https://github.com/WongKinYiu/yolov7/raw/main/paper/yolov7.pdf)
 
 ## Siamese Networks 
-[Intro to siamese Networks](https://towardsdatascience.com/a-friendly-introduction-to-siamese-networks-85ab17522942)
+[Intro to siamese Networks](https://towardsdatascience.com/a-friendly-introduction-to-siamese-networks-85ab17522942)<br>
+[siamese triplet](https://github.com/adambielski/siamese-triplet)
 
 ## Ranking Loss 
-[Understanding Ranking Loss, Contrastive Loss, Margin Loss, Triplet Loss, Hinge Loss and all those confusing names](https://gombru.github.io/2019/04/03/ranking_loss/)
+[Understanding Ranking Loss, Contrastive Loss, Margin Loss, Triplet Loss, Hinge Loss and all those confusing names](https://gombru.github.io/2019/04/03/ranking_loss/)<br>
+[Triplet Loss and Online Triplet Mining in TensorFlow](https://omoindrot.github.io/triplet-loss)
 
 ## Papers with code 
 [Website for papers with code](https://paperswithcode.com/)<br>
