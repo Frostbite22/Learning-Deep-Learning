@@ -34,6 +34,11 @@
 [Understanding Ranking Loss, Contrastive Loss, Margin Loss, Triplet Loss, Hinge Loss and all those confusing names](https://gombru.github.io/2019/04/03/ranking_loss/)<br>
 [Triplet Loss and Online Triplet Mining in TensorFlow](https://omoindrot.github.io/triplet-loss)
 
+## Ensemble learning
+[Ensemble of networks for improved accuracy in deep learning](https://www.youtube.com/watch?v=-ix_Mjzu8BU)<br>
+[code github](https://github.com/bnsreenu/python_for_microscopists)<br>
+[dataset](https://www.kaggle.com/datamunge/sign-language-mnist)
+
 ## Papers with code 
 [Website for papers with code](https://paperswithcode.com/)<br>
 [Deep Learning using Linear SVMS](https://paperswithcode.com/paper/deep-learning-using-linear-support-vector)<br>
