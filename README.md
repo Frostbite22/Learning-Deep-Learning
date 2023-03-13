@@ -36,7 +36,7 @@
 
 ## Ensemble learning
 [Ensemble of networks for improved accuracy in deep learning](https://www.youtube.com/watch?v=-ix_Mjzu8BU)<br>
-[code github](https://github.com/bnsreenu/python_for_microscopists)<br>
+[code github](https://github.com/bnsreenu/python_for_microscopists/blob/master/213-ensemble_sign_language.py)<br>
 [dataset](https://www.kaggle.com/datamunge/sign-language-mnist)
 
 ## Papers with code 
