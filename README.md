@@ -30,6 +30,12 @@
 [Intro to siamese Networks](https://towardsdatascience.com/a-friendly-introduction-to-siamese-networks-85ab17522942)<br>
 [siamese triplet](https://github.com/adambielski/siamese-triplet)
 
+
+## Support Vector Machine
+[what is SVM](https://programmathically.com/what-is-a-support-vector/)<br>
+[Understanding Hinge Loss and SVM cost function](https://programmathically.com/understanding-hinge-loss-and-the-svm-cost-function/)<br>
+[What is a kernel in machine learning](https://programmathically.com/what-is-a-kernel-in-machine-learning/)
+
 ## Ranking Loss 
 [Understanding Ranking Loss, Contrastive Loss, Margin Loss, Triplet Loss, Hinge Loss and all those confusing names](https://gombru.github.io/2019/04/03/ranking_loss/)<br>
 [Triplet Loss and Online Triplet Mining in TensorFlow](https://omoindrot.github.io/triplet-loss)
