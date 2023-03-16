@@ -36,6 +36,10 @@
 [Understanding Hinge Loss and SVM cost function](https://programmathically.com/understanding-hinge-loss-and-the-svm-cost-function/)<br>
 [What is a kernel in machine learning](https://programmathically.com/what-is-a-kernel-in-machine-learning/)
 
+## Data proprocessing
+[standard deviation explained](https://www.youtube.com/watch?v=HvDqbzu0i0E)<br>
+[How To Calculate the Mean and Standard Deviation — Normalizing Datasets in Pytorch](https://towardsdatascience.com/how-to-calculate-the-mean-and-standard-deviation-normalizing-datasets-in-pytorch-704bd7d05f4c#:~:text=The%20data%20can%20be%20normalized,a%20standard%20deviation%20of%201.)
+
 ## Ranking Loss 
 [Understanding Ranking Loss, Contrastive Loss, Margin Loss, Triplet Loss, Hinge Loss and all those confusing names](https://gombru.github.io/2019/04/03/ranking_loss/)<br>
 [Triplet Loss and Online Triplet Mining in TensorFlow](https://omoindrot.github.io/triplet-loss)
