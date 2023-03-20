@@ -49,6 +49,9 @@
 [code github](https://github.com/bnsreenu/python_for_microscopists/blob/master/213-ensemble_sign_language.py)<br>
 [dataset](https://www.kaggle.com/datamunge/sign-language-mnist)
 
+## Transfer Learning
+[Transfer learning in pytorch](https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html)
+
 ## Optimization 
 [Polyak Averaging](https://paperswithcode.com/method/polyak-averaging)<br>
 [Stochastic Weight Averaging](https://pytorch.org/blog/stochastic-weight-averaging-in-pytorch/)<br>
