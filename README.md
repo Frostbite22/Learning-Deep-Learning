@@ -60,7 +60,7 @@
 ## PyTorch
 [A gentle intro to torch.autograd](https://pytorch.org/tutorials/beginner/blitz/autograd_tutorial.html?highlight=autograd)<br>
 [Functionalization in PyTorch: Everything You Wanted To Know](https://dev-discuss.pytorch.org/t/functionalization-in-pytorch-everything-you-wanted-to-know/965)<br>
-[TORCHDYNAMO AND TORCHINDUCTOR TUTORIAL](https://pytorch.org/tutorials/intermediate/dynamo_tutorial.html)<br>
+[Torch compile tutorial](https://pytorch.org/tutorials/intermediate/torch_compile_tutorial.html)<br>
 [AOT autograd : How to use and optimize](https://pytorch.org/functorch/stable/notebooks/aot_autograd_optimizations.html)
 
 ## Papers with code 
