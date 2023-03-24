@@ -57,6 +57,10 @@
 [Stochastic Weight Averaging](https://pytorch.org/blog/stochastic-weight-averaging-in-pytorch/)<br>
 [Stochastic Weight Avg pytorch 1.6](https://pytorch.org/blog/pytorch-1.6-now-includes-stochastic-weight-averaging/)
 
+## PyTorch
+[A gentle intro to torch.autograd](https://pytorch.org/tutorials/beginner/blitz/autograd_tutorial.html?highlight=autograd)<br>
+[Functionalization in PyTorch: Everything You Wanted To Know](https://dev-discuss.pytorch.org/t/functionalization-in-pytorch-everything-you-wanted-to-know/965)
+
 ## Papers with code 
 [Website for papers with code](https://paperswithcode.com/)<br>
 [Deep Learning using Linear SVMS](https://paperswithcode.com/paper/deep-learning-using-linear-support-vector)<br>
