@@ -58,10 +58,15 @@
 [Stochastic Weight Avg pytorch 1.6](https://pytorch.org/blog/pytorch-1.6-now-includes-stochastic-weight-averaging/)
 
 ## PyTorch
+[PyTorch 2.0 release explained](https://medium.com/@MaziBoustani/pytorch-2-0-release-explained-b5f167b86819)<br>
 [A gentle intro to torch.autograd](https://pytorch.org/tutorials/beginner/blitz/autograd_tutorial.html?highlight=autograd)<br>
 [Functionalization in PyTorch: Everything You Wanted To Know](https://dev-discuss.pytorch.org/t/functionalization-in-pytorch-everything-you-wanted-to-know/965)<br>
 [Torch compile tutorial](https://pytorch.org/tutorials/intermediate/torch_compile_tutorial.html)<br>
-[AOT autograd : How to use and optimize](https://pytorch.org/functorch/stable/notebooks/aot_autograd_optimizations.html)
+[AOT autograd : How to use and optimize](https://pytorch.org/functorch/stable/notebooks/aot_autograd_optimizations.html)<br>
+[Making Deep learning go brrr from first principles](https://horace.io/brrr_intro.html)
+
+## Transformers
+[Efficient Training on single GPU](https://huggingface.co/docs/transformers/perf_train_gpu_one)
 
 ## Papers with code 
 [Website for papers with code](https://paperswithcode.com/)<br>
