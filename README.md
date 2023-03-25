@@ -65,6 +65,10 @@
 [AOT autograd : How to use and optimize](https://pytorch.org/functorch/stable/notebooks/aot_autograd_optimizations.html)<br>
 [Making Deep learning go brrr from first principles](https://horace.io/brrr_intro.html)
 
+## Pipeline Parallelism
+[Pipeline Parallelism](https://www.deepspeed.ai/tutorials/pipeline/)<br>
+[PiPPy](https://github.com/pytorch/tau)
+
 ## Transformers
 [Efficient Training on single GPU](https://huggingface.co/docs/transformers/perf_train_gpu_one)
 
