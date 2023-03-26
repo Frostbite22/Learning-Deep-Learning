@@ -63,7 +63,8 @@
 [Functionalization in PyTorch: Everything You Wanted To Know](https://dev-discuss.pytorch.org/t/functionalization-in-pytorch-everything-you-wanted-to-know/965)<br>
 [Torch compile tutorial](https://pytorch.org/tutorials/intermediate/torch_compile_tutorial.html)<br>
 [AOT autograd : How to use and optimize](https://pytorch.org/functorch/stable/notebooks/aot_autograd_optimizations.html)<br>
-[Making Deep learning go brrr from first principles](https://horace.io/brrr_intro.html)
+[Making Deep learning go brrr from first principles](https://horace.io/brrr_intro.html)<br>
+[TensorRT](https://pytorch.org/TensorRT/tutorials/getting_started_with_fx_path.html)
 
 ## Pipeline Parallelism
 [Pipeline Parallelism](https://www.deepspeed.ai/tutorials/pipeline/)<br>
