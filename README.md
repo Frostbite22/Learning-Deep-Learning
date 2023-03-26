@@ -64,7 +64,8 @@
 [Torch compile tutorial](https://pytorch.org/tutorials/intermediate/torch_compile_tutorial.html)<br>
 [AOT autograd : How to use and optimize](https://pytorch.org/functorch/stable/notebooks/aot_autograd_optimizations.html)<br>
 [Making Deep learning go brrr from first principles](https://horace.io/brrr_intro.html)<br>
-[TensorRT](https://pytorch.org/TensorRT/tutorials/getting_started_with_fx_path.html)
+[TensorRT](https://pytorch.org/TensorRT/tutorials/getting_started_with_fx_path.html)<br>
+[Optimizing Production PyTorch Models’ Performance with Graph Transformations](https://pytorch.org/blog/optimizing-production-pytorch-performance-with-graph-transformations/)
 
 ## Pipeline Parallelism
 [Pipeline Parallelism](https://www.deepspeed.ai/tutorials/pipeline/)<br>
