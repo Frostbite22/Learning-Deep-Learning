@@ -1,4 +1,4 @@
-# Learning Resources 
+# Learning Deep Learning Resources 
 
 ## Convolutional Neural Networks
 [CS231n CNN for Visual Recognition](https://cs231n.github.io/)<br>
@@ -73,6 +73,10 @@
 
 ## Transformers
 [Efficient Training on single GPU](https://huggingface.co/docs/transformers/perf_train_gpu_one)
+
+## Compilers for Neural Networks
+[How Nvidia’s CUDA Monopoly In Machine Learning Is Breaking - OpenAI Triton And PyTorch 2.0](https://www.semianalysis.com/p/nvidiaopenaitritonpytorch)<br>
+[Introducing Triton: Open-source GPU programming for neural networks](https://openai.com/research/triton)
 
 ## Papers with code 
 [Website for papers with code](https://paperswithcode.com/)<br>
