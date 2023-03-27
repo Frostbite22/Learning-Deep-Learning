@@ -78,6 +78,9 @@
 [How Nvidia’s CUDA Monopoly In Machine Learning Is Breaking - OpenAI Triton And PyTorch 2.0](https://www.semianalysis.com/p/nvidiaopenaitritonpytorch)<br>
 [Introducing Triton: Open-source GPU programming for neural networks](https://openai.com/research/triton)
 
+## Graph Neural Networks
+[Graph neural networks intro](https://distill.pub/2021/gnn-intro/)
+
 ## Papers with code 
 [Website for papers with code](https://paperswithcode.com/)<br>
 [Deep Learning using Linear SVMS](https://paperswithcode.com/paper/deep-learning-using-linear-support-vector)<br>
