@@ -10,6 +10,10 @@
 [Neural Networks: Zero to Hero](https://github.com/karpathy/nn-zero-to-hero)<br>
 [Coursera deep learning specialization](https://github.com/amanchadha/coursera-deep-learning-specialization)
 
+## Gradient Explanations
+[Unserstanding Gradient Calculation](https://forums.fast.ai/t/understanding-gradient-calculation/42770/7)<br>
+[Forward and Backward prop](https://www.irit.fr/~Thomas.Pellegrini/pdf/slides-cct-26janv2017_Thomas_Pellegrini.pdf)
+
 ## Generative models 
 [MIT 6.S191: Deep Generative Modeling](https://www.youtube.com/watch?v=QcLlc9lj2hk)<br>
 [Generative Adversarial Nets arXiv paper](https://arxiv.org/pdf/1406.2661v1.pdf)<br>
@@ -37,6 +41,7 @@
 [What is a kernel in machine learning](https://programmathically.com/what-is-a-kernel-in-machine-learning/)
 
 ## Data proprocessing
+[Weight initialization techniques](https://www.numpyninja.com/post/weight-initialization-techniques)<br>
 [standard deviation explained](https://www.youtube.com/watch?v=HvDqbzu0i0E)<br>
 [How To Calculate the Mean and Standard Deviation — Normalizing Datasets in Pytorch](https://towardsdatascience.com/how-to-calculate-the-mean-and-standard-deviation-normalizing-datasets-in-pytorch-704bd7d05f4c#:~:text=The%20data%20can%20be%20normalized,a%20standard%20deviation%20of%201.)
 
