@@ -46,6 +46,7 @@
 [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167.pdf)<br>
 [Variance vs covariance](https://www.investopedia.com/ask/answers/041515/what-difference-between-variance-and-covariance.asp)<br>
 [Understanding the backward pass through Batch Normalization Layer](https://kratzert.github.io/2016/02/12/understanding-the-gradient-flow-through-the-batch-normalization-layer.html)<br>
+[BatchNorm Layer - Understanding and eliminating Internal Covariance Shift](https://deepnotes.io/batchnorm#backward-propagation)<br>
 [How To Calculate the Mean and Standard Deviation — Normalizing Datasets in Pytorch](https://towardsdatascience.com/how-to-calculate-the-mean-and-standard-deviation-normalizing-datasets-in-pytorch-704bd7d05f4c#:~:text=The%20data%20can%20be%20normalized,a%20standard%20deviation%20of%201.)
 
 ## Ranking Loss 
