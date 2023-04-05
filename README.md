@@ -43,6 +43,7 @@
 
 ## Data proprocessing
 [Weight initialization techniques](https://www.numpyninja.com/post/weight-initialization-techniques)<br>
+[Build Better Deep Learning Models with Batch and Layer Normalization](https://www.pinecone.io/learn/batch-layer-normalization/)<br>
 [standard deviation explained](https://www.youtube.com/watch?v=HvDqbzu0i0E)<br>
 [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167.pdf)<br>
 [Variance vs covariance](https://www.investopedia.com/ask/answers/041515/what-difference-between-variance-and-covariance.asp)<br>
