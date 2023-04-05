@@ -24,6 +24,7 @@
 
 ## Models 
 [Implementing ResNet18 from scratch](https://debuggercafe.com/implementing-resnet18-in-pytorch-from-scratch/)<br>
+
 [Resnet Implementation torchvision](https://github.com/pytorch/vision/blob/fe973ceed96da733ec0ae61c525b2f886ccfba21/torchvision/models/resnet.py#L120-L127)<br>
 
 ## Object Detection 
@@ -48,6 +49,9 @@
 [Understanding the backward pass through Batch Normalization Layer](https://kratzert.github.io/2016/02/12/understanding-the-gradient-flow-through-the-batch-normalization-layer.html)<br>
 [BatchNorm Layer - Understanding and eliminating Internal Covariance Shift](https://deepnotes.io/batchnorm#backward-propagation)<br>
 [How To Calculate the Mean and Standard Deviation — Normalizing Datasets in Pytorch](https://towardsdatascience.com/how-to-calculate-the-mean-and-standard-deviation-normalizing-datasets-in-pytorch-704bd7d05f4c#:~:text=The%20data%20can%20be%20normalized,a%20standard%20deviation%20of%201.)
+
+## Analysing Results
+[Top 1-5 error](https://deepchecks.com/glossary/top-1-error-rate/)
 
 ## Ranking Loss 
 [Understanding Ranking Loss, Contrastive Loss, Margin Loss, Triplet Loss, Hinge Loss and all those confusing names](https://gombru.github.io/2019/04/03/ranking_loss/)<br>
