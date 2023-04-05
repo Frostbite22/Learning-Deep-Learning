@@ -66,6 +66,9 @@
 ## Transfer Learning
 [Transfer learning in pytorch](https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html)
 
+## Regularization
+[Dropout (inverted dropout)](https://teetracker.medium.com/dropout-inverted-dropout-ec5d16d7a473)
+
 ## Optimization 
 [Polyak Averaging](https://paperswithcode.com/method/polyak-averaging)<br>
 [Stochastic Weight Averaging](https://pytorch.org/blog/stochastic-weight-averaging-in-pytorch/)<br>
