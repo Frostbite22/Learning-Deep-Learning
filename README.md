@@ -39,7 +39,8 @@
 ## Support Vector Machine
 [what is SVM](https://programmathically.com/what-is-a-support-vector/)<br>
 [Understanding Hinge Loss and SVM cost function](https://programmathically.com/understanding-hinge-loss-and-the-svm-cost-function/)<br>
-[What is a kernel in machine learning](https://programmathically.com/what-is-a-kernel-in-machine-learning/)
+[What is a kernel in machine learning](https://programmathically.com/what-is-a-kernel-in-machine-learning/)<br>
+[Derivation of SVM Loss](https://math.stackexchange.com/questions/2572318/derivation-of-gradient-of-svm-loss)
 
 ## Data proprocessing
 [Weight initialization techniques](https://www.numpyninja.com/post/weight-initialization-techniques)<br>
