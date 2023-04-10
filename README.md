@@ -22,6 +22,9 @@
 [Lecture 19: Generative models I michigan](https://www.youtube.com/watch?v=Q3HU2vEhD5Y&list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r&index=19)<br>
 [Lecture 20: Generative models II michigan](https://www.youtube.com/watch?v=Q3HU2vEhD5Y&list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r&index=20)
 
+## Activation functions
+[Vanishing gradients problem with sigmoid](https://www.kdnuggets.com/2022/02/vanishing-gradient-problem.html)
+
 ## Models 
 [Implementing ResNet18 from scratch](https://debuggercafe.com/implementing-resnet18-in-pytorch-from-scratch/)<br>
 
