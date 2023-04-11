@@ -20,7 +20,9 @@
 [GAN pytorch implementation](https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/gan/gan.py)<br>
 [Generative Adversarial Networks faces tutorial pytorch](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html)<br>
 [Lecture 19: Generative models I michigan](https://www.youtube.com/watch?v=Q3HU2vEhD5Y&list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r&index=19)<br>
-[Lecture 20: Generative models II michigan](https://www.youtube.com/watch?v=Q3HU2vEhD5Y&list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r&index=20)
+[Lecture 20: Generative models II michigan](https://www.youtube.com/watch?v=Q3HU2vEhD5Y&list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r&index=20)<br>
+[DCGAN paper 2016 : UNSUPERVISED REPRESENTATION LEARNING WITH DEEP CONVOLUTIONAL GENERATIVE ADVERSARIAL NETWORKS](https://arxiv.org/pdf/1511.06434.pdf)<br>
+[Video Generation with TGAN](https://colab.research.google.com/github/https-deeplearning-ai/GANs-Public/blob/master/C1W2_Video_Generation_(Optional).ipynb)
 
 ## Activation functions
 [Vanishing gradients problem with sigmoid](https://www.kdnuggets.com/2022/02/vanishing-gradient-problem.html)
