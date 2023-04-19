@@ -103,6 +103,9 @@
 ## Transformers
 [Efficient Training on single GPU](https://huggingface.co/docs/transformers/perf_train_gpu_one)
 
+## Related Maths
+[Singular Value Decomposition as Simply as Possible](https://gregorygundersen.com/blog/2018/12/10/svd/)
+
 ## Compilers for Neural Networks
 [How Nvidia’s CUDA Monopoly In Machine Learning Is Breaking - OpenAI Triton And PyTorch 2.0](https://www.semianalysis.com/p/nvidiaopenaitritonpytorch)<br>
 [Introducing Triton: Open-source GPU programming for neural networks](https://openai.com/research/triton)
