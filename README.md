@@ -26,7 +26,8 @@
 [Video Generation with TGAN](https://colab.research.google.com/github/https-deeplearning-ai/GANs-Public/blob/master/C1W2_Video_Generation_(Optional).ipynb)<br>
 [Inception score](https://machinelearningmastery.com/how-to-implement-the-inception-score-from-scratch-for-evaluating-generated-images/)<br>
 [Wasserstein GAN paper](https://arxiv.org/pdf/1701.07875.pdf)<br>
-[Improved WGAN](https://arxiv.org/pdf/1704.00028.pdf)
+[Improved WGAN](https://arxiv.org/pdf/1704.00028.pdf)<br>
+[SPECTRAL NORMALIZATION FOR GENERATIVE ADVERSARIAL NETWORKS ](https://arxiv.org/pdf/1802.05957.pdf)
 
 ## Activation functions
 [Vanishing gradients problem with sigmoid](https://www.kdnuggets.com/2022/02/vanishing-gradient-problem.html)
