@@ -24,7 +24,9 @@
 [GAN : coursera specialization](https://github.com/amanchadha/coursera-gan-specialization/)<br>
 [DCGAN paper 2016 : UNSUPERVISED REPRESENTATION LEARNING WITH DEEP CONVOLUTIONAL GENERATIVE ADVERSARIAL NETWORKS](https://arxiv.org/pdf/1511.06434.pdf)<br>
 [Video Generation with TGAN](https://colab.research.google.com/github/https-deeplearning-ai/GANs-Public/blob/master/C1W2_Video_Generation_(Optional).ipynb)<br>
-[Inception score](https://machinelearningmastery.com/how-to-implement-the-inception-score-from-scratch-for-evaluating-generated-images/)
+[Inception score](https://machinelearningmastery.com/how-to-implement-the-inception-score-from-scratch-for-evaluating-generated-images/)<br>
+[Wasserstein GAN paper](https://arxiv.org/pdf/1701.07875.pdf)<br>
+[Improved WGAN](https://arxiv.org/pdf/1704.00028.pdf)
 
 ## Activation functions
 [Vanishing gradients problem with sigmoid](https://www.kdnuggets.com/2022/02/vanishing-gradient-problem.html)
