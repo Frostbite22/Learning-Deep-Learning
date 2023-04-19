@@ -27,7 +27,8 @@
 [Inception score](https://machinelearningmastery.com/how-to-implement-the-inception-score-from-scratch-for-evaluating-generated-images/)<br>
 [Wasserstein GAN paper](https://arxiv.org/pdf/1701.07875.pdf)<br>
 [Improved WGAN](https://arxiv.org/pdf/1704.00028.pdf)<br>
-[SPECTRAL NORMALIZATION FOR GENERATIVE ADVERSARIAL NETWORKS ](https://arxiv.org/pdf/1802.05957.pdf)
+[SPECTRAL NORMALIZATION FOR GENERATIVE ADVERSARIAL NETWORKS ](https://arxiv.org/pdf/1802.05957.pdf)<br>
+[CATEGORICAL REPARAMETERIZATION WITH GUMBEL-SOFTMAX](https://arxiv.org/pdf/1611.01144.pdf)
 
 ## Activation functions
 [Vanishing gradients problem with sigmoid](https://www.kdnuggets.com/2022/02/vanishing-gradient-problem.html)
