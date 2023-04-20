@@ -29,7 +29,8 @@
 [Improved WGAN](https://arxiv.org/pdf/1704.00028.pdf)<br>
 [SPECTRAL NORMALIZATION FOR GENERATIVE ADVERSARIAL NETWORKS ](https://arxiv.org/pdf/1802.05957.pdf)<br>
 [CATEGORICAL REPARAMETERIZATION WITH GUMBEL-SOFTMAX](https://arxiv.org/pdf/1611.01144.pdf)<br>
-[From Gan To WGAN](https://lilianweng.github.io/posts/2017-08-20-gan/)
+[From Gan To WGAN](https://lilianweng.github.io/posts/2017-08-20-gan/)<br>
+[Wasserstein GAN and the Kantorovich-Rubinstein Duality](https://vincentherrmann.github.io/blog/wasserstein/)
 
 ## Activation functions
 [Vanishing gradients problem with sigmoid](https://www.kdnuggets.com/2022/02/vanishing-gradient-problem.html)
