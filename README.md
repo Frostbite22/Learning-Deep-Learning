@@ -35,6 +35,9 @@
 ## Activation functions
 [Vanishing gradients problem with sigmoid](https://www.kdnuggets.com/2022/02/vanishing-gradient-problem.html)
 
+## Multimodal Deep Learning 
+[Multimodal Deep Learning: Definition, Examples, Applications](https://www.v7labs.com/blog/multimodal-deep-learning-guide)
+
 ## Models 
 [Implementing ResNet18 from scratch](https://debuggercafe.com/implementing-resnet18-in-pytorch-from-scratch/)<br>
 
