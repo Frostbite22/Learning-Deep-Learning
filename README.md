@@ -30,7 +30,9 @@
 [SPECTRAL NORMALIZATION FOR GENERATIVE ADVERSARIAL NETWORKS ](https://arxiv.org/pdf/1802.05957.pdf)<br>
 [CATEGORICAL REPARAMETERIZATION WITH GUMBEL-SOFTMAX](https://arxiv.org/pdf/1611.01144.pdf)<br>
 [From Gan To WGAN](https://lilianweng.github.io/posts/2017-08-20-gan/)<br>
-[Wasserstein GAN and the Kantorovich-Rubinstein Duality](https://vincentherrmann.github.io/blog/wasserstein/)
+[Wasserstein GAN and the Kantorovich-Rubinstein Duality](https://vincentherrmann.github.io/blog/wasserstein/)<br>
+[Kernel density estimation via the Parzen-Rosenblatt window method](https://sebastianraschka.com/Articles/2014_kernel_density_est.html)<br>
+[Interpreting the Latent Space of GANs for Semantic Face Editing](https://arxiv.org/pdf/1907.10786.pdf)
 
 ## Activation functions
 [Vanishing gradients problem with sigmoid](https://www.kdnuggets.com/2022/02/vanishing-gradient-problem.html)
